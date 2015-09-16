@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿如來念誦供養法
+#+DATE: 2015-08-30 20:25:48.478253
+#+PROPERTY: JUAN 0
